@@ -1,0 +1,22 @@
+
+.navbar-brand img {
+  width: 175px;
+  height: 70px;
+  margin-right: 400px;
+  margin-left:60px;
+}
+.green{
+  background-color: darkgreen;
+  color:white
+}
+nav .navbar-nav li a{
+  color: white !important;
+}
+img {
+  height: 90vh;
+  width: 90vw;
+}
+footer{
+  background-color:darkgreen;
+  color:white;
+}
